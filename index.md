@@ -55,7 +55,7 @@ For the scripting piece of this assignment, I used much of the same logic used f
 Fig1 below shows the pickling scripting piece of this assignment, defined in functions. 
 
 Fig1: 
-
+![image](https://user-images.githubusercontent.com/69399579/90964570-a42e6800-e476-11ea-943f-88248e1d5f5d.png)
 ```
 **Save_data_to_file** – this takes the user’s current cumulative list of customer Ids and names which they have defined in the application and writes over the current file with their data. It does not add to the existing data in the file, simply overwrites the file with new data. This uses pickling to “wb” which means write binary and stores the data in a .dat file. 
 
