@@ -37,13 +37,11 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
 
-_David Jamieson_
-
-_8/22/20_
-_IT FDN 110 A Su 20: Foundations Of Programming: Python_
-_Assignment 07_
-_GitHub: https://github.com/djamies1/IntroToProg-Python-Mod07_
-
+- _David Jamieson_
+- _8/22/20_
+- _IT FDN 110 A Su 20: Foundations Of Programming: Python_
+- _Assignment 07_
+- _GitHub: https://github.com/djamies1/IntroToProg-Python-Mod07_
 
 # Assignment 07 – Documentation
 
