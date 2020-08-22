@@ -38,6 +38,7 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 
 _David Jamieson_
+
 _8/22/20_
 _IT FDN 110 A Su 20: Foundations Of Programming: Python_
 _Assignment 07_
